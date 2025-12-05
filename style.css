@@ -411,6 +411,10 @@ body {
         margin-bottom: 30px;
     }
 
+    .touch-email{
+        font-size: 15px;
+    }
+    
     .dev-info {
         text-align: center;
     }
@@ -594,4 +598,5 @@ body {
 .star-count .fa-star {
     color: #ffc107; /* Star icon color */
     margin-right: 5px;
+
 }
