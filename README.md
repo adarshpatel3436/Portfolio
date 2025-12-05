@@ -8,7 +8,8 @@ As a budding developer, this project serves as a comprehensive representation of
 
 | Check Live |
 | :---: |
- |portfolio-5tr47kz5a-adarshpatel3436s-projects.vercel.app|
+| [![View Live Demo](https://img.shields.io/badge/Check%20Live-View%20Website-blue?style=for-the-badge&logo=vercel)](https://portfolio-5tr47kz5a-adarshpatel3436s-projects.vercel.app) |
+
 ## ✨ Key Features
 
 * **Modern Design:** Features a polished, user-friendly UI with smooth CSS transitions, gradient backgrounds, and glass-morphism effects.
@@ -32,7 +33,8 @@ To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-   
+    git clone [https://github.com/adarshpatel3436/Portfolio.git](https://github.com/adarshpatel3436/Portfolio.git)
+    cd Portfolio
     ```
 
 2.  **Open the file:**
