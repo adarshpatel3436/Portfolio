@@ -8,7 +8,7 @@ As a budding developer, this project serves as a comprehensive representation of
 
 | Check Live |
 | :---: |
-| [![View Live Demo](https://img.shields.io/badge/Check%20Live-View%20Website-blue?style=for-the-badge&logo=vercel)](https://portfolio-5tr47kz5a-adarshpatel3436s-projects.vercel.app) |
+| [![View Live Demo](https://img.shields.io/badge/Check%20Live-View%20Website-blue?style=for-the-badge&logo=vercel)](https://portfolio-adarshpatel3436.vercel.app/) |
 
 ## ✨ Key Features
 
