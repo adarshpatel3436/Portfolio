@@ -281,9 +281,9 @@ body {
     margin-left: 5px;
 }
 
-/* --- Get In Touch Section (#services) Styles --- */
+/* --- Get In Touch Section (#get-in-touch) Styles --- */
 
-#services {
+#get-in-touch {
     /* Use a very light background for the section as per the image */
     background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
 }
@@ -407,14 +407,13 @@ body {
         padding: 40px 20px;
     }
 
+    .touch-email{
+        font-size: 10px;
+    }
     .dev-pic img {
         margin-bottom: 30px;
     }
 
-    .touch-email{
-        font-size: 10px;
-    }
-    
     .dev-info {
         text-align: center;
     }
@@ -592,12 +591,10 @@ body {
 .language-html::before { background-color: #e34c26; }     /* Red */
 .language-typescript::before { background-color: #2b7489; } /* Blue/Teal */
 .language-java::before { background-color: #b07219; }      /* Brown/Yellow */
-.language-javascript::before { background-color: #f1e05a; } /* Yellow */
+.language-javascript::before { background-color: #f1e05a; }  /* Yellow */    
 
 
 .star-count .fa-star {
     color: #ffc107; /* Star icon color */
     margin-right: 5px;
-
 }
-
